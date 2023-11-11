@@ -1,6 +1,6 @@
 # Hangman
 
-## Table of contents: (Add Below)
+## Table of contents:
 | Syntax | Description |
 | ----------- | ----------- |
 | 1 | Table of Contents|
@@ -22,6 +22,9 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - produce python code that can generate a random word
 - accept input guesses from the user
 - navigate these guesses of the word within (xxxx) amount of attempts
+
+  ## What I learned
+  #### 
 
   ## Installation instructions:
 
