@@ -21,18 +21,29 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 #### This project is aiming to: 
 - produce python code that can generate a random word
 - accept input guesses from the user
-- navigate these guesses of the word within (xxxx) amount of attempts
+- navigate these guesses of the word, within the given 5 lives
+- add the correct letters guessed to the word_guessed list
+- decrease the no. of lives for every incorrect guess
 
-  ## What I learned
-  #### 
+## What I learned
+  #### I have learnt how to use abstraction and encapulation in order to keep my code looking as clean and understanable as possible
+  #### I have also learnt how to effectively use a class and to remember to use self. before an attribute when it is in use
 
-  ## Installation instructions:
+## Installation instructions:
 
-  ## Usage instructions:
+## Usage instructions:
+  #### The user must enter a charatcter that meets the requirements:
+  - A singular character
+  - Be a letter
 
-  ## File structure of the project:
+#### Following this they will be propmpted whether their entry met the requirements or not. Regardless on the entry, they will be prompted to enter another letter
 
-  ## License information:
+## File structure of the project:
+  #### this file is structured into sections of relevance. for example within the class Hangman, the methods are separated based on what they do.
+  - The first being check_guess
+  - The second being ask_for_input
+  
+## License information:
 
 
 
