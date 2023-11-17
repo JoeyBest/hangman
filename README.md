@@ -38,7 +38,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 1. First use your terminal / command line and direct it to where you would like the repository (repo) to be
 2. On GitHub copy the http:// link ready for us to clone the repo
 3. In your terminal/command line use "git clone" followed by the previously copied http:// link
-#### This will creat a copy of the hangman repository to your local device ready to use
+#### This will create a copy of the hangman repository to your local device ready to use
 
 ## Usage instructions:
 #### When the play_game(word_list) function is run, you will be prompted to enter/guess a letter.
