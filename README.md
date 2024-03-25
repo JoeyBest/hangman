@@ -52,13 +52,32 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 #### However, regardless on the entry, they will be prompted to enter another letter.
 
 ## File structure of the project:
-  #### this file is structured into sections of relevance and code readbility. For example within the class Hangman, the methods are separated based on what they do.
-  - The first being check_guess
-  - The second being ask_for_input
-#### Within Each of these section, they contain code that is relavent to their purpose. E.g. check_guess only contains code to check if the users guess is in the randomly generated word and other code related to that function.
+ ```
+.
+└── /Users/
+    └── joeybest/
+        └── Ai Core/
+            └── Hangman/
+                └── hangman/
+                    ├── README.md
+                    ├── milestone_2.py
+                    ├── milestone_3.py
+                    ├── milestone_4.py
+                    ├── milestone_5.py
+                    ├── hangman-code-review-joseph.zip
+                    ├── Hangman Code Review  _ Joseph Best.pdf
+                    └── hangman/
+                        ├── hangman_Template.py
+                    └── hangman 2/
+                        ├── README.md
+                        ├── milestone_2.py
+                        ├── milestone_3.py
+                        ├── milestone_4.py
+                        ├── milestone_5.py
+                        └── hangman/
+                            ├── hangman_Template.py
+```
 
-#### After this is the play_game() function. Each of these parts have been separated for readability purposes. But the play_game() function is left till last as it is the part of the code that uses all the previously mentioned methods. Therefore, it has to be last to be able to access their codes.
-  
 ## License information:
 
 
