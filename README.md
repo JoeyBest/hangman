@@ -60,10 +60,11 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
             └── Hangman/
                 └── hangman/
                     ├── README.md
-                    ├── milestone_2.py
-                    ├── milestone_3.py
-                    ├── milestone_4.py
-                    ├── milestone_5.py
+                    ├── hangman.py
+                    └── Tasks/
+                        ├── milestone_2.py
+                        ├── milestone_3.py
+                        └── milestone_4.py
 ```
 
 ## License information:
