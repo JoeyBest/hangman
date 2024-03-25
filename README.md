@@ -64,18 +64,6 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
                     ├── milestone_3.py
                     ├── milestone_4.py
                     ├── milestone_5.py
-                    ├── hangman-code-review-joseph.zip
-                    ├── Hangman Code Review  _ Joseph Best.pdf
-                    └── hangman/
-                        ├── hangman_Template.py
-                    └── hangman 2/
-                        ├── README.md
-                        ├── milestone_2.py
-                        ├── milestone_3.py
-                        ├── milestone_4.py
-                        ├── milestone_5.py
-                        └── hangman/
-                            ├── hangman_Template.py
 ```
 
 ## License information:
