@@ -60,4 +60,4 @@ class Hangman():
 my_hangman = Hangman()
 '''Class is made into an oobject in order to be used/called later'''
 my_hangman.ask_for_input()
-'''Class and method called!'''
+# Class and method called!

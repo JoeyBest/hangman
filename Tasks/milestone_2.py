@@ -6,7 +6,7 @@ word_list = ['kiwi', 'strawberry', 'orange', 'lemon', 'apple']
 word = random.choice(word_list)
 #print(word)
 
-guess = raw_input('Enter a single letter... ')
+guess = input('Enter a single letter... ')
 
 if len(guess) == 1 and guess.isalpha():
     print('Good guess')
